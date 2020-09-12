@@ -1,0 +1,17 @@
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\bin\Debug\index.html
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\bin\Debug\Unidad2Practica2.exe.config
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\bin\Debug\Unidad2Practica2.exe
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\bin\Debug\Unidad2Practica2.pdb
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\MainWindow.g.cs
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\App.g.cs
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2_Content.g.cs
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2_MarkupCompile.cache
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2_MarkupCompile.lref
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\MainWindow.baml
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2.g.resources
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2.Properties.Resources.resources
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2.csproj.GenerateResource.cache
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2.csproj.CoreCompileInputs.cache
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2.exe
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2.pdb
+C:\Users\fanny\Documents\7mo Semestre\Des. de Ap. Cliente-Servidor\Unidad2Practica2\Unidad2Practica2\obj\Debug\Unidad2Practica2.csprojAssemblyReference.cache
